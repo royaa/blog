@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /D:/wamp/www/blog/wp-content/wppa-pl
+RewriteRule ^美女/(.*) /D:/wamp/www/blog/wp-content/uploads/wppa-source/album-1/$1 [NC]
+</IfModule>

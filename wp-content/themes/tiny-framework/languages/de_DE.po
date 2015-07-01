@@ -1,0 +1,501 @@
+# Copyright (C) 2015 Tomas Mackevicius
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Framework 2.0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tiny-framework\n"
+"POT-Creation-Date: 2015-04-16 01:23-0600\n"
+"PO-Revision-Date: 2015-04-16 02:14-0600\n"
+"Last-Translator: Tomas Mackevicius <services@mtomas.com>\n"
+"Language-Team: Ralph Stieber\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Das ist irgendwie peinlich, oder?"
+
+#: 404.php:31 content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es sieht so aus, als ob wir nicht das finden konnten wonach du gesucht hast. "
+"M&uuml;glicherweise hilft die Suchfunktion."
+
+#. translators: %1$s: smiley
+#: 404.php:39
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Bitte suche im Monatsarchiv. %1$s"
+
+#: author-bio.php:28
+#, php-format
+msgid "About <span itemprop=\"name\">%s</span>"
+msgstr "Über <span itemprop=\"name\">%s</span>"
+
+#: author-bio.php:39
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Beitr&auml;ge von %s"
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:54
+msgid "Older comments"
+msgstr "&Auml;ltere Kommentare"
+
+#: comments.php:55
+msgid "Newer comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: content-link.php:27
+msgid "Link"
+msgstr "Link"
+
+#: content-none.php:19
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit den ersten Beitrag zu ver&ouml;ffentlichen? <a href=\"%s\">Starte "
+"hier</a>."
+
+#: content-none.php:30
+msgid ""
+"Apologies, but no results were found. Please try again with some different "
+"keywords."
+msgstr ""
+"Entschuldige, aber es konnte nichts gefunden werden. Versuche es erneut mit "
+"anderen Schl&uuml;sselw&ouml;rtern."
+
+#: content-status.php:27
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permanentlink zu %s"
+
+#: content.php:21 inc/examples/content-with-thumbnail.php:21
+msgid "Featured article"
+msgstr "Im Fokus"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgid "Leave a reply"
+msgstr "Hinterlasse eine Antwort"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: footer.php:21
+msgid "Footer Content"
+msgstr "Footer Inhalt"
+
+#: functions.php:189 header.php:101 header.php:103
+msgid "Primary Menu"
+msgstr "Prim&auml;res Men&uuml;"
+
+#: functions.php:190 inc/menu-social.php:14 inc/menu-social.php:16
+msgid "Social Links Menu"
+msgstr "Social Links Men&uuml;"
+
+#: functions.php:253 sidebar-front.php:24 sidebar.php:20
+msgid "Main Sidebar"
+msgstr "Haupt-Sidebar"
+
+#: functions.php:255
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+"Erscheint auf allen Artikelseiten und statischen Seiten ausser dem "
+"optionalen Startseitentemplate, welches eigene Widgets hat."
+
+#: functions.php:263
+msgid "First Front Page Widget Area"
+msgstr "Erster Widget Bereich der Startseite"
+
+#: functions.php:265 functions.php:275
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+"Erscheint, wenn das optionale Startseitentemplate verwendet wird, und die "
+"Seite als statische Startseite definiert wurde."
+
+#: functions.php:273
+msgid "Second Front Page Widget Area"
+msgstr "Zweiter Widget Bereich der Startseite"
+
+#: functions.php:283
+msgid "First Footer Widget Area"
+msgstr "Erster Widget Bereich des Footers"
+
+#: functions.php:285
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Left Side."
+msgstr ""
+"Findet sich am Ende jeder Seite (ausser 404-Fehlerseite) als Footer. Linke "
+"Seite"
+
+#: functions.php:293
+msgid "Second Footer Widget Area"
+msgstr "Zweiter Widget Bereich des Footers"
+
+#: functions.php:295
+msgid "Found at the bottom of every page (except 404s) as the footer. Center."
+msgstr ""
+"Findet sich am Ende jeder Seite (ausser 404-Fehlerseite) als Footer. Mitte"
+
+#: functions.php:303
+msgid "Third Footer Widget Area"
+msgstr "Dritter Widget Bereich des Footers"
+
+#: functions.php:305
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Right Side."
+msgstr ""
+"Findet sich am Ende jeder Seite (ausser 404-Fehlerseite) als Footer. Rechte "
+"Seite"
+
+#: functions.php:313
+msgid "Footer Copyright Widget Area"
+msgstr "Copyright Widget Bereich im Footer"
+
+#: functions.php:315
+#, fuzzy
+msgid ""
+"Found at the bottom of every page as the footer. Left Side. Use Text widget "
+"with no Title."
+msgstr "Findet sich am Ende jeder Seite als Footer. Linke Seite."
+
+#. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:371
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:407
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:510
+msgid "Opens in a new window"
+msgstr "In neuem Fenster öffnen"
+
+#: functions.php:635
+#, php-format
+msgid "Using %s"
+msgstr "Nutze %s"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: header.php:51
+msgid ""
+"Advanced features of this website require that you enable JavaScript in your "
+"browser. Thank you!"
+msgstr ""
+"Die erweiterten Funktionen dieser Webseite ben&ouml;tigen das JavaScript im "
+"Browser aktiviert ist. Vielen Dank!"
+
+#: header.php:104
+msgid "Menu"
+msgstr "Men&uuml;"
+
+#: image.php:100
+msgid "Previous image"
+msgstr "Vorheriges Bild"
+
+#: image.php:100
+msgid "Next image"
+msgstr "N&auml;chstes Bild"
+
+#: inc/admin-notice.php:22
+#, php-format
+msgid ""
+"Thank you for using Tiny Framework! Please check out a valuable user guide: "
+"<a target=\"_blank\" href=\"%s\">How to use Tiny Framework and its child "
+"themes: a comprehensive guide</a>. Happy coding! <a href=\"%s\">(hide this "
+"message)</a>"
+msgstr ""
+"Vielen Dank das du Tiny Framework nutzt! Bitte beachte auch diese n&uuml;"
+"tzliche Benutzeranleitung (in englisch): <a target=\"_blank\" href=\"%s"
+"\">How to use Tiny Framework and its child themes: a comprehensive guide</a> "
+"(Wie nutze ich Tiny Framework und seine Child-Themes: eine umfassende "
+"Anleitung). Happy coding! <a href=\"%s\">(Diese Nachricht verstecken)</a>"
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+#, php-format
+msgid ""
+"Tiny Framework requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Tiny Framework ben&ouml;tigt WordPress ab Version 4.1. Du nutzt Version %s. "
+"Bitte installiere die neueste Version und versuche es erneut."
+
+#: inc/custom-header.php:52
+msgctxt "header image description"
+msgid "First"
+msgstr "Erstes"
+
+#: inc/custom-header.php:57
+msgctxt "header image description"
+msgid "Second"
+msgstr "Zweites"
+
+#: inc/custom-header.php:62
+msgctxt "header image description"
+msgid "Third"
+msgstr "Drittes"
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "Seitentitel Farbe"
+
+#: inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr "Anzeige des Seitentitel &amp; Untertitel"
+
+#: inc/template-tags.php:194
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: inc/template-tags.php:199
+msgid "Tag:"
+msgstr "Schlagwort:"
+
+#: inc/template-tags.php:204
+msgid "Author:"
+msgstr "Autor:"
+
+#: inc/template-tags.php:227 inc/template-tags.php:307
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#: inc/template-tags.php:248 inc/template-tags.php:298
+msgctxt "Used before publish date."
+msgid "Published on"
+msgstr "Ver&ouml;ffentlicht am:"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/template-tags.php:277
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:313 inc/template-tags.php:321
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:316
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorien"
+
+#: inc/template-tags.php:324
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: inc/template-tags.php:335
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Vollst&auml;ndige Gr&ouml;sse"
+
+#: inc/template-tags.php:419
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:419
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: inc/template-tags.php:434
+msgid "Post author"
+msgstr "Beitragsautor"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:440
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: inc/template-tags.php:446
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: inc/template-tags.php:451 inc/template-tags.php:490
+#: page-templates/links.php:45
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/template-tags.php:456
+msgid "Reply"
+msgstr "Antwort"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:504 inc/template-tags.php:531
+#, php-format
+msgid "...continue reading %s"
+msgstr "...Weiterlesen %s"
+
+#: inc/template-tags.php:547
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/template-tags.php:551 inc/template-tags.php:568
+msgid "Page"
+msgstr "Seite"
+
+#: inc/template-tags.php:566
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: inc/template-tags.php:567
+msgid "Next page"
+msgstr "N&auml;chste Seite"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse f&uuml;r: %s"
+
+#: single.php:33
+msgid "Next article:"
+msgstr "N&auml;chster Beitrag"
+
+#: single.php:35
+msgid "Previous article:"
+msgstr "Vorherige Beitr&auml;ge:"
+
+#. Additional translations not generated by PoEdit
+#. ===============================================
+#. Theme Name of the plugin/theme
+msgid "Tiny Framework"
+msgstr "Tiny Framework"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/themes/tiny-framework"
+msgstr "http://wordpress.org/themes/tiny-framework"
+
+#. Description of the plugin/theme
+msgid ""
+"Tiny Framework theme was created with the future in mind and encompasses all "
+"the best features of the default WordPress themes in one place, adds full "
+"accessibility and Schema.org microdata format support. Fast start is ensured "
+"with very extensive documentation! Tiny Framework features elegant "
+"responsive mobile-first design of Twenty Twelve, HTML5 ready structure of "
+"Underscores, many improvements from Twenty Fifteen, custom per-post headers, "
+"three footer widgets, FontAwesome icon webfont and Google Fonts support. Web "
+"developers will enjoy integrated Theme Hook Alliance custom action hooks. "
+"It's all there, you have everything in one neat package. Theme supports Site "
+"Logo feature on WordPress.com, that is available with Jetpack plugin for "
+"self-hosted sites (can be also installed as a stand-alone plugin). Along "
+"with the main theme you will find an example of a child theme - an easy way "
+"to start developing with child themes! Tiny Framework can be used as a "
+"learning tool or your own little web development \"framework\". With its "
+"unique \"Coding Tips System\" Tiny Framework helps to understand how to "
+"extend parent themes and build your own child themes, hacking them the way "
+"you want. You get the best coding examples from default WordPress themes and "
+"the best hacks from the child theme. Please read readme.txt for a quick "
+"start guide, tips and tricks. For more information please see: http://mtomas."
+"com/1/"
+msgstr ""
+"Tiny Framework wurde mit der Zukunft im Hinterkopf entwickelt und umfasst "
+"die besten Eigenschaften der Standard-WordPress-Themes in einem Ort, "
+"inklusive voller Zug&auml;nglichkeit und Schema.org Mikrodaten-Format "
+"Unterst&uuml;tzung. Ein schneller Start ist mit der sehr umfangreichen "
+"Dokumentation (englisch) gew&auml;hrleistet! Tiny Framework bietet das "
+"elegante mobile-first Design von Twenty-Twelve, das HTML5 Grundger&uuml;st "
+"von Underscores, viele Verbesserungen aus Twenty-Fifteen, individuelle pro-"
+"Beitrag-Header, drei Footer Widgets, FontAwesome Symbol Webfonts und Google "
+"Fonts Unterst&uuml;tzung. Web-Entwickler erfreuen sich an den integrierten "
+"\"Theme Hook Alliance\" - benutzerdefinierte Action-Hooks. Es ist alles da, "
+"alles in einem praktischen Paket. Das Theme unterst&uuml;tzt die Site-Logo-"
+"Funktion auf WordPress.com, die mit dem Jetpack Plugin für selbst gehostete "
+"Sites geliefert wird (Jetpack kann auch als Stand-alone-Plugin installiert "
+"werden). Zusammen mit dem Haupttheme findest du ein Beispiel für ein Child-"
+"Theme - eine einfache M&ouml;glichkeit mit der Erstellung eines Child-Theme "
+"zu beginnen! Tiny Framework kann als Lernwerkzeug oder als dein eigenes "
+"kleine Web-Entwicklungs  \"Framework \" verwendet werden. Mit seinem "
+"einzigartigen  \"Coding Tipps System \" hilft dir Tiny Framework, wie man "
+"Parent-Themes erweitert und sich ein eigenens Child-Theme erstellt, das "
+"Theme so zu ver&auml;ndern wie du es willst. Du erh&auml;lst den besten Code "
+"der Standard WordPress Themes mit den besten &Auml;nderungen des Child-"
+"Theme. Bitte lies die \"readme.txt\" (englisch) für eine Schnellstart-"
+"Anleitung, Tipps und Tricks. Weitere Informationen (englisch) findest du "
+"unter: http://mtomas.com/1/"
+
+#. Author of the plugin/theme
+msgid "Tomas Mackevicius"
+msgstr "Tomas Mackevicius"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Startseitenvorlage"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Seitenvorlage \"ganze Breite\", keine Seitenleiste"
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr "Links"
+
+#. Optional Footer credits
+msgid "Powered by %s"
+msgstr "Pr&auml;sentiert von %s"
+
+#. Optional Footer credits
+msgid " and %s"
+msgstr " und %s"

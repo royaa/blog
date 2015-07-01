@@ -1,0 +1,29 @@
+ChangeLog
+=========
+
+
+Version 0.9
+
+	i) Initial Release.
+	
+Version 0.91
+
+	i) Corrected a Few Function Prefixes.
+	ii) Fixed Pagiation Bug in archive.php for Category Pages
+	iii) Fixed Pagination Bug on Search Results Page.
+	iv) Fixed Slider Display on Mobiles.
+	v) Fixed Display of 3 Column Layout on Tablets.	
+	vi) Minor Correction to protopress_fade function.
+	vii) Fixed Bug when site-desc color was unset initially.
+	viii) Few CSS Fixes.
+	ix) Fixed Translation in Footer.php #19
+	x) Removed config.codekit
+	
+Version 0.92
+
+	i) Removed Hidden Folders.	
+	
+Version 1.0	
+
+	i) Removed rtl.css
+	ii) Corrected Language File, protopress.pot

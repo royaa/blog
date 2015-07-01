@@ -1,0 +1,493 @@
+# Copyright (C) 2015 Tomas Mackevicius
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Framework 2.0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tiny-framework\n"
+"POT-Creation-Date: 2015-04-16 01:23-0600\n"
+"PO-Revision-Date: 2015-04-16 01:50-0600\n"
+"Last-Translator: Tomas Mackevicius <services@mtomas.com>\n"
+"Language-Team: Tiny Framework Team <services@mtomas.com>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Det här är lite pinsamt, eller hur?"
+
+#: 404.php:31 content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det verkar som om vi inte kan hitta det du är ute efter. Kanske en sökning "
+"kan hjälpa."
+
+#. translators: %1$s: smiley
+#: 404.php:39
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: author-bio.php:28
+#, php-format
+msgid "About <span itemprop=\"name\">%s</span>"
+msgstr "Om <span itemprop=\"name\">%s</span>"
+
+#: author-bio.php:39
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:54
+msgid "Older comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:55
+msgid "Newer comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentarer är inaktiverade."
+
+#: content-link.php:27
+msgid "Link"
+msgstr "Länk"
+
+#: content-none.php:19
+msgid "Nothing Found"
+msgstr "Ingenting hittades"
+
+#: content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: content-none.php:30
+msgid ""
+"Apologies, but no results were found. Please try again with some different "
+"keywords."
+msgstr ""
+"Tyvärr, ingenting matchar din sökning. Vänligen försök igen med andra sökord."
+
+#: content-status.php:27
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalänk till %s"
+
+#: content.php:21 inc/examples/content-with-thumbnail.php:21
+msgid "Featured article"
+msgstr "Utvald artikel"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgid "Leave a reply"
+msgstr "Lämna ett svar"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: footer.php:21
+msgid "Footer Content"
+msgstr "Sidfots-innehåll"
+
+#: functions.php:189 header.php:101 header.php:103
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: functions.php:190 inc/menu-social.php:14 inc/menu-social.php:16
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: functions.php:253 sidebar-front.php:24 sidebar.php:20
+msgid "Main Sidebar"
+msgstr "Primär sidopanel"
+
+#: functions.php:255
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+"Visas tillsammans med inlägg och sidor förutom i den valfria mallen för "
+"startsidan som har sina egna widgetfält"
+
+#: functions.php:263
+msgid "First Front Page Widget Area"
+msgstr "Första widgetfältet för startsidan"
+
+#: functions.php:265 functions.php:275
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+"Visas vid användning av den valfria mallen för startsidan när en statisk "
+"startsida är angiven"
+
+#: functions.php:273
+msgid "Second Front Page Widget Area"
+msgstr "Andra widgetfältet för startsidan"
+
+#: functions.php:283
+msgid "First Footer Widget Area"
+msgstr "Sidfotens första widgetfält"
+
+#: functions.php:285
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Left Side."
+msgstr ""
+"Återfinns längst ner på varje sida (utom 404:or) som sidfot. Vänstra sidan."
+
+#: functions.php:293
+msgid "Second Footer Widget Area"
+msgstr "Sidfotens andra widgetfält"
+
+#: functions.php:295
+msgid "Found at the bottom of every page (except 404s) as the footer. Center."
+msgstr "Återfinns längst ner på varje sida (utom 404:or) som sidfot. I mitten."
+
+#: functions.php:303
+msgid "Third Footer Widget Area"
+msgstr "Sidfotens tredje widgetfält"
+
+#: functions.php:305
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Right Side."
+msgstr ""
+"Återfinns längst ner på varje sida (utom 404:or) som sidfot. Högra sidan."
+
+#: functions.php:313
+msgid "Footer Copyright Widget Area"
+msgstr "Sidfotens Copyright widgetfält"
+
+#: functions.php:315
+msgid ""
+"Found at the bottom of every page as the footer. Left Side. Use Text widget "
+"with no Title."
+msgstr ""
+"Återfinns som sidfot längst ner på varje sida. Vänster sida. Använd Text "
+"widget utan rubrik."
+
+#. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:371
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:407
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:510
+msgid "Opens in a new window"
+msgstr "Öppnas i ett nytt fönster"
+
+#: functions.php:635
+#, php-format
+msgid "Using %s"
+msgstr "Använder %s"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:51
+msgid ""
+"Advanced features of this website require that you enable JavaScript in your "
+"browser. Thank you!"
+msgstr ""
+"Avancerade funktioner på denna hemsida kräver att du aktiverar JavaScript i "
+"din webbläsare. Tack!"
+
+#: header.php:104
+msgid "Menu"
+msgstr "Meny"
+
+#: image.php:100
+msgid "Previous image"
+msgstr "Föregående bild"
+
+#: image.php:100
+msgid "Next image"
+msgstr "Nästa bild"
+
+#: inc/admin-notice.php:22
+#, php-format
+msgid ""
+"Thank you for using Tiny Framework! Please check out a valuable user guide: "
+"<a target=\"_blank\" href=\"%s\">How to use Tiny Framework and its child "
+"themes: a comprehensive guide</a>. Happy coding! <a href=\"%s\">(hide this "
+"message)</a>"
+msgstr ""
+"Tack för att du använder Tiny Framework! Kolla gärna en användbar "
+"användarmanual:  <a target=\"_blank\" href=\"%s\">How to use Tiny Framework "
+"and its child themes: a comprehensive guide</a>. Lycklig kodning! <a href="
+"\"%s\">(dölj detta meddelande)</a>"
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+#, php-format
+msgid ""
+"Tiny Framework requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Tiny Framework kräver minst WordPress version 4.1. Du använder version %s. "
+"Uppdatera och försök igen."
+
+#: inc/custom-header.php:52
+msgctxt "header image description"
+msgid "First"
+msgstr "Första"
+
+#: inc/custom-header.php:57
+msgctxt "header image description"
+msgid "Second"
+msgstr "Andra"
+
+#: inc/custom-header.php:62
+msgctxt "header image description"
+msgid "Third"
+msgstr "Tredje"
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "Hemsidans Rubrikfärg"
+
+#: inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr "Visa hemsidans Rubrik &amp; Slogan"
+
+#: inc/template-tags.php:194
+msgid "Category:"
+msgstr "Kategori:"
+
+#: inc/template-tags.php:199
+msgid "Tag:"
+msgstr "Etikett:"
+
+#: inc/template-tags.php:204
+msgid "Author:"
+msgstr "Författare:"
+
+#: inc/template-tags.php:227 inc/template-tags.php:307
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Författare"
+
+#: inc/template-tags.php:248 inc/template-tags.php:298
+msgctxt "Used before publish date."
+msgid "Published on"
+msgstr "Publicerat den"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: inc/template-tags.php:277
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:313 inc/template-tags.php:321
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:316
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:324
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiketter"
+
+#: inc/template-tags.php:335
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full storlek"
+
+#: inc/template-tags.php:419
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:419
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: inc/template-tags.php:434
+msgid "Post author"
+msgstr "Inläggsförfattare"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:440
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+#: inc/template-tags.php:446
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: inc/template-tags.php:451 inc/template-tags.php:490
+#: page-templates/links.php:45
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/template-tags.php:456
+msgid "Reply"
+msgstr "Svar"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:504 inc/template-tags.php:531
+#, php-format
+msgid "...continue reading %s"
+msgstr "...fortsätt läsa %s"
+
+#: inc/template-tags.php:547
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: inc/template-tags.php:551 inc/template-tags.php:568
+msgid "Page"
+msgstr "Sida"
+
+#: inc/template-tags.php:566
+msgid "Previous page"
+msgstr "Föregående sida"
+
+#: inc/template-tags.php:567
+msgid "Next page"
+msgstr "Nästa sida"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: single.php:33
+msgid "Next article:"
+msgstr "Nästa artikel:"
+
+#: single.php:35
+msgid "Previous article:"
+msgstr "Föregående artikel:"
+
+#. Additional translations not generated by PoEdit
+#. ===============================================
+#. Theme Name of the plugin/theme
+msgid "Tiny Framework"
+msgstr "Tiny Framework"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/themes/tiny-framework"
+msgstr "http://wordpress.org/themes/tiny-framework"
+
+#. Description of the plugin/theme
+msgid ""
+"Tiny Framework theme was created with the future in mind and encompasses all "
+"the best features of the default WordPress themes in one place, adds full "
+"accessibility and Schema.org microdata format support. Fast start is ensured "
+"with very extensive documentation! Tiny Framework features elegant "
+"responsive mobile-first design of Twenty Twelve, HTML5 ready structure of "
+"Underscores, many improvements from Twenty Fifteen, custom per-post headers, "
+"three footer widgets, FontAwesome icon webfont and Google Fonts support. Web "
+"developers will enjoy integrated Theme Hook Alliance custom action hooks. "
+"It's all there, you have everything in one neat package. Theme supports Site "
+"Logo feature on WordPress.com, that is available with Jetpack plugin for "
+"self-hosted sites (can be also installed as a stand-alone plugin). Along "
+"with the main theme you will find an example of a child theme - an easy way "
+"to start developing with child themes! Tiny Framework can be used as a "
+"learning tool or your own little web development \"framework\". With its "
+"unique \"Coding Tips System\" Tiny Framework helps to understand how to "
+"extend parent themes and build your own child themes, hacking them the way "
+"you want. You get the best coding examples from default WordPress themes and "
+"the best hacks from the child theme. Please read readme.txt for a quick "
+"start guide, tips and tricks. For more information please see: http://mtomas."
+"com/1/"
+msgstr ""
+"Temat Tiny Framework skapades med tanke på framtiden och innehåller det "
+"bästa av alla egenskaper hos standard WordPress teman på ett ställe, ger "
+"dessutom full tillgänglighet och Schema.org microdata format stöd. Det är "
+"lätt att komma igång tack vare väldigt omfattande dokumentation! Tiny "
+"Framework erbjuder elegant responsiv mobile-först design från Twnty Twelve, "
+"HTML5-klar struktur från Underscore, många förbättringar från Twenty "
+"Fifteen, anpassade rubriker per inlägg, tre sidfots-widgets, FontAwesome "
+"ikon webbfont och stöd för Google Fonts. Webbutvecklare kommer att uppskatta "
+"integrerade Theme Hook Alliance custom action hooks. Allt finns här, du har "
+"allt i ett smidigt paket. Temat stöder Site Logo funktionen på WordPress."
+"com, som är tillgänglig med Jetpack-tillägget för egenadministrerade "
+"hemsidor (kan även installeras som ett fristående tillägg). Förutom "
+"huvudtemat återfinner du också ett exempel på barntema - ett enkelt sätt att "
+"börja utveckla med barnteman! Tiny Framework kan användas som ett läromedel "
+"eller som ditt eget lilla webbutvecklings \"ramverk\". Med sitt unika "
+"\"Coding Tips System\" hjälper Tiny Framework dig att förstå hur man "
+"utvidgar föräldrateman, bygger egna barnteman, och modifierar dem på det "
+"sätt du vill. Du får de bästa kodningsexemplen från standard WordPress teman "
+"och de bästa modifieringarna av barnteman. Tänk på att läsa readme.txt som "
+"en snabbstart-guide, tips och tricks. För ytterligare information gå till: "
+"http://mtomas.com/1/"
+
+#. Author of the plugin/theme
+msgid "Tomas Mackevicius"
+msgstr "Tomas Mackevicius"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Mall för startsida"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Fullbredd sidmall, ingen sidopanel"
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr "Länkar"
+
+#. Optional Footer credits
+msgid "Powered by %s"
+msgstr "Drivs med %s"
+
+#. Optional Footer credits
+msgid " and %s"
+msgstr "och %s"

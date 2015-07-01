@@ -1,0 +1,497 @@
+# Copyright (C) 2015 Tomas Mackevicius
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Framework 2.0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tiny-framework\n"
+"POT-Creation-Date: 2015-04-16 01:23-0600\n"
+"PO-Revision-Date: 2015-04-16 01:41-0600\n"
+"Last-Translator: Tomas Mackevicius <services@mtomas.com>\n"
+"Language-Team: Tiny Framework Team <services@mtomas.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Tai yra kažkas nemalonaus, taip?"
+
+#: 404.php:31 content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Panašu, kad nepavyko rasti jūsų ieškomo puslapio. Galbūt jums padės paieškos "
+"galimybė."
+
+#. translators: %1$s: smiley
+#: 404.php:39
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite ieškoti mėnesių archyvuose. %1$s"
+
+#: author-bio.php:28
+#, php-format
+msgid "About <span itemprop=\"name\">%s</span>"
+msgstr "Autorius: <span itemprop=\"name\">%s</span>"
+
+#: author-bio.php:39
+#, php-format
+msgid "View all posts by %s"
+msgstr "Peržiūrėti visus įrašus, kuriuos paskelbė %s"
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentaras apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarai apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarų apie &ldquo;%2$s&rdquo;"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: comments.php:54
+msgid "Older comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:55
+msgid "Newer comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: content-link.php:27
+msgid "Link"
+msgstr "Nuoroda"
+
+#: content-none.php:19
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: content-none.php:30
+msgid ""
+"Apologies, but no results were found. Please try again with some different "
+"keywords."
+msgstr ""
+"Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos "
+"raktažodį."
+
+#: content-status.php:27
+#, php-format
+msgid "Permalink to %s"
+msgstr "Tiesioginė nuoroda į %s"
+
+#: content.php:21 inc/examples/content-with-thumbnail.php:21
+msgid "Featured article"
+msgstr "Rekomenduojame skaityti"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgid "Leave a reply"
+msgstr "Laukiame komentarų"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content.php:52 inc/examples/content-with-thumbnail.php:80
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: footer.php:21
+msgid "Footer Content"
+msgstr "Poraštės sritis"
+
+#: functions.php:189 header.php:101 header.php:103
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: functions.php:190 inc/menu-social.php:14 inc/menu-social.php:16
+msgid "Social Links Menu"
+msgstr "Socialinių nuorodų meniu"
+
+#: functions.php:253 sidebar-front.php:24 sidebar.php:20
+msgid "Main Sidebar"
+msgstr "Pagrindinė valdiklių sritis"
+
+#: functions.php:255
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+"Rodoma šalia įrašų ir puslapių (išskyrus pradžios puslapio šabloną, kuris "
+"turi savo valdiklius)"
+
+#: functions.php:263
+msgid "First Front Page Widget Area"
+msgstr "Pirmoji pradžios puslapio valdiklių sritis"
+
+#: functions.php:265 functions.php:275
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr "Rodoma pasirinkus pradžios puslapio šabloną"
+
+#: functions.php:273
+msgid "Second Front Page Widget Area"
+msgstr "Antroji pradžios puslapio valdiklių sritis"
+
+#: functions.php:283
+msgid "First Footer Widget Area"
+msgstr "Pirmoji poraštės valdiklių sritis"
+
+#: functions.php:285
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Left Side."
+msgstr ""
+"Rodoma kiekvieno puslapio (išskyrus 404 klaidos puslapį) apačioje kaip "
+"poraštė. Kairė pusė."
+
+#: functions.php:293
+msgid "Second Footer Widget Area"
+msgstr "Antroji poraštės valdiklių sritis"
+
+#: functions.php:295
+msgid "Found at the bottom of every page (except 404s) as the footer. Center."
+msgstr ""
+"Rodoma kiekvieno puslapio (išskyrus 404 klaidos puslapį) apačioje kaip "
+"poraštė. Vidurys."
+
+#: functions.php:303
+msgid "Third Footer Widget Area"
+msgstr "Trečioji poraštės valdiklių sritis"
+
+#: functions.php:305
+msgid ""
+"Found at the bottom of every page (except 404s) as the footer. Right Side."
+msgstr ""
+"Rodoma kiekvieno puslapio (išskyrus 404 klaidos puslapį) apačioje kaip "
+"poraštė. Dešinė pusė."
+
+#: functions.php:313
+msgid "Footer Copyright Widget Area"
+msgstr "Poraštės valdiklių sritis autorinėms teisėms"
+
+#: functions.php:315
+msgid ""
+"Found at the bottom of every page as the footer. Left Side. Use Text widget "
+"with no Title."
+msgstr ""
+"Rodoma kiekvieno puslapio apačioje kaip poraštė. Kairė pusė. Naudokite "
+"valdiklį Tekstas be Pavadinimo."
+
+#. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:371
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:407
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:510
+msgid "Opens in a new window"
+msgstr "Nuoroda atsidarys naujame lange"
+
+#: functions.php:635
+#, php-format
+msgid "Using %s"
+msgstr "Tema: %s"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: header.php:51
+msgid ""
+"Advanced features of this website require that you enable JavaScript in your "
+"browser. Thank you!"
+msgstr ""
+"Pilnavertis šios svetainės veikimas reikalauja aktyvuoti naršyklės "
+"JavaScript sistemą. Ačiū!"
+
+#: header.php:104
+msgid "Menu"
+msgstr "Meniu"
+
+#: image.php:100
+msgid "Previous image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: image.php:100
+msgid "Next image"
+msgstr "Sekantis paveikslėlis"
+
+#: inc/admin-notice.php:22
+#, php-format
+msgid ""
+"Thank you for using Tiny Framework! Please check out a valuable user guide: "
+"<a target=\"_blank\" href=\"%s\">How to use Tiny Framework and its child "
+"themes: a comprehensive guide</a>. Happy coding! <a href=\"%s\">(hide this "
+"message)</a>"
+msgstr ""
+"Dėkojame, kad pasirinkote Tiny Framework temą! Kviečiame susipažinti su "
+"nuodugnia temos naudojimo instrukcija (anglų k.): <a target=\"_blank\" href="
+"\"%s\">How to use Tiny Framework and its child themes: a comprehensive "
+"guide</a>. Gero programavimo! <a href=\"%s\">(uždaryti šią žinutę)</a>"
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+#, php-format
+msgid ""
+"Tiny Framework requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Tiny Framework tema gali būti naudojama, pradedant sistemos WordPress 4.1 "
+"versija. Jūsų svetainėje veikia versija: %s. Prašome atnaujinti sistemą "
+"WordPress ir pabandyti aktyvuoti temą iš naujo."
+
+#: inc/custom-header.php:52
+msgctxt "header image description"
+msgid "First"
+msgstr "Pirmas"
+
+#: inc/custom-header.php:57
+msgctxt "header image description"
+msgid "Second"
+msgstr "Antras"
+
+#: inc/custom-header.php:62
+msgctxt "header image description"
+msgid "Third"
+msgstr "Trečias"
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "Svetainės antraštės spalva"
+
+#: inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr "Rodyti svetainės antraštę ir trumpą moto."
+
+#: inc/template-tags.php:194
+msgid "Category:"
+msgstr "Tema:"
+
+#: inc/template-tags.php:199
+msgid "Tag:"
+msgstr "Žyma:"
+
+#: inc/template-tags.php:204
+msgid "Author:"
+msgstr "Autorius:"
+
+#: inc/template-tags.php:227 inc/template-tags.php:307
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autorius"
+
+#: inc/template-tags.php:248 inc/template-tags.php:298
+msgctxt "Used before publish date."
+msgid "Published on"
+msgstr "Paskelbta"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "Leave a comment"
+msgstr "Laukiame komentarų"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "1 Comment"
+msgstr "1 komentaras"
+
+#: inc/template-tags.php:256 inc/template-tags.php:344
+msgid "% Comments"
+msgstr "Komentarų (%)"
+
+#: inc/template-tags.php:277
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formatas"
+
+#: inc/template-tags.php:313 inc/template-tags.php:321
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:316
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Temos"
+
+#: inc/template-tags.php:324
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Žymos"
+
+#: inc/template-tags.php:335
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pilnas dydis"
+
+#: inc/template-tags.php:419
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas:"
+
+#: inc/template-tags.php:419
+msgid "(Edit)"
+msgstr "(Redaguoti)"
+
+#: inc/template-tags.php:434
+msgid "Post author"
+msgstr "Įrašo autorius(-ė)"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:440
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:446
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#: inc/template-tags.php:451 inc/template-tags.php:490
+#: page-templates/links.php:45
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: inc/template-tags.php:456
+msgid "Reply"
+msgstr "Atsakyti"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:504 inc/template-tags.php:531
+#, php-format
+msgid "...continue reading %s"
+msgstr "...skaityti toliau %s"
+
+#: inc/template-tags.php:547
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: inc/template-tags.php:551 inc/template-tags.php:568
+msgid "Page"
+msgstr "Puslapis"
+
+#: inc/template-tags.php:566
+msgid "Previous page"
+msgstr "Ankstesnis puslapis"
+
+#: inc/template-tags.php:567
+msgid "Next page"
+msgstr "Sekantis puslapis"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai raktažodžiui: %s"
+
+#: single.php:33
+msgid "Next article:"
+msgstr "Sekantis straipsnis:"
+
+#: single.php:35
+msgid "Previous article:"
+msgstr "Ankstesnis straipsnis:"
+
+#. Additional translations not generated by PoEdit
+#. ===============================================
+#. Theme Name of the plugin/theme
+msgid "Tiny Framework"
+msgstr "Tiny Framework"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/themes/tiny-framework"
+msgstr "http://wordpress.org/themes/tiny-framework"
+
+#. Description of the plugin/theme
+msgid ""
+"Tiny Framework theme was created with the future in mind and encompasses all "
+"the best features of the default WordPress themes in one place, adds full "
+"accessibility and Schema.org microdata format support. Fast start is ensured "
+"with very extensive documentation! Tiny Framework features elegant "
+"responsive mobile-first design of Twenty Twelve, HTML5 ready structure of "
+"Underscores, many improvements from Twenty Fifteen, custom per-post headers, "
+"three footer widgets, FontAwesome icon webfont and Google Fonts support. Web "
+"developers will enjoy integrated Theme Hook Alliance custom action hooks. "
+"It's all there, you have everything in one neat package. Theme supports Site "
+"Logo feature on WordPress.com, that is available with Jetpack plugin for "
+"self-hosted sites (can be also installed as a stand-alone plugin). Along "
+"with the main theme you will find an example of a child theme - an easy way "
+"to start developing with child themes! Tiny Framework can be used as a "
+"learning tool or your own little web development \"framework\". With its "
+"unique \"Coding Tips System\" Tiny Framework helps to understand how to "
+"extend parent themes and build your own child themes, hacking them the way "
+"you want. You get the best coding examples from default WordPress themes and "
+"the best hacks from the child theme. Please read readme.txt for a quick "
+"start guide, tips and tricks. For more information please see: http://mtomas."
+"com/1/"
+msgstr ""
+"Tiny Framework theme was created with the future in mind and encompasses all "
+"the best features of the default WordPress themes in one place, adds full "
+"accessibility and Schema.org microdata format support. Fast start is ensured "
+"with very extensive documentation! Tiny Framework features elegant "
+"responsive mobile-first design of Twenty Twelve, HTML5 ready structure of "
+"Underscores, many improvements from Twenty Fifteen, custom per-post headers, "
+"three footer widgets, FontAwesome icon webfont and Google Fonts support. Web "
+"developers will enjoy integrated Theme Hook Alliance custom action hooks. "
+"It's all there, you have everything in one neat package. Theme supports Site "
+"Logo feature on WordPress.com, that is available with Jetpack plugin for "
+"self-hosted sites (can be also installed as a stand-alone plugin). Along "
+"with the main theme you will find an example of a child theme - an easy way "
+"to start developing with child themes! Tiny Framework can be used as a "
+"learning tool or your own little web development \"framework\". With its "
+"unique \"Coding Tips System\" Tiny Framework helps to understand how to "
+"extend parent themes and build your own child themes, hacking them the way "
+"you want. You get the best coding examples from default WordPress themes and "
+"the best hacks from the child theme. Please read readme.txt for a quick "
+"start guide, tips and tricks. For more information please see: http://mtomas."
+"com/1/"
+
+#. Author of the plugin/theme
+msgid "Tomas Mackevicius"
+msgstr "Tomas Mackevičius"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Pradžios puslapio šablonas"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Pilno pločio šablonas, be šoninės juostos"
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr "Nuorodos"
+
+#. Optional Footer credits
+msgid "Powered by %s"
+msgstr "%s sistema"
+
+#. Optional Footer credits
+msgid " and %s"
+msgstr " ir %s"

@@ -1,0 +1,3 @@
+﻿Standardmäßig ist die "Du"-Version der Übersetzung aktiviert.
+Wenn die "Sie"-Version benötigt wird, die beiden Dateien "de_DE.mo" und "de_DE.po" sichern (ausserhalb) und danach einfach die Datei "de_DE-Sie.zip" ins Verzeichnis entpacken, und dabei die Dateien "de_DE.mo" und "de_DE.po" überschreiben.
+Genauso kann auf die "Du"-Version zurück gegangen werden, indem die Sicherungsdatein wieder ins "languages"- Verzeichnis eingefügt (überschreiben) werden.
